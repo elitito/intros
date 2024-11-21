@@ -1,0 +1,104 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+    height: 400px;  
+    font-family: "Edu AU VIC WA NT Guides", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+header, section, footer {
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    background-image: url(impact-342396.jpg)
+}
+header {
+    background-color: rgb(114, 113, 113);
+    width: 960px;
+    height: 80px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(208, 205, 212) ;
+}
+
+h3 {
+    font-size: x-large;
+}
+#txt_1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    float: left; 
+    text-align: left;
+} 
+
+#img_1 {
+    width: 500px;
+    height: auto; 
+    margin-left: 75px;
+    margin-right: 10px;
+}
+
+.img_2 {
+    width: 800px;
+    margin: 15px; 
+    float: left; 
+    margin-left: 75px; 
+}
+
+#txt_2 {
+    margin: 10px; 
+    text-align: left;  
+}
+
+#txt_3 {
+    margin: 10px;
+    text-align: left;
+}
+
+#lista {
+    float: left;
+    margin-left: 25px;
+    margin-top: 10px;
+    width: 300px;
+    height: auto;
+    font-size: large;
+}
+
+#img_3 {
+    float: right;
+    margin-top: 10px; 
+    width: 500px;
+    height: auto;
+}
+
+.footer {
+    height: 110px;
+    width: 960px;
+    margin: 10px;
+    float: left;
+    font-size: medium;
+    text-align: left;
+    background-color:rgb(114, 113, 113) ;
+}
+
+#tito {
+    margin-left: 10px;
+}
+
+#seccion_3 {
+    height: 830px;
+}
+
+a i {
+    text-decoration: none;
+    color: violet;
+    margin: 10px; 
+    font-size: 35px;
+} 
+
